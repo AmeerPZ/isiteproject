@@ -1,0 +1,16 @@
+{
+  "name": "isiteproject",
+  "version": "0.0.1",
+  "description": "isite helper webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "isite"
+  ],
+  "author": "ameer",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
